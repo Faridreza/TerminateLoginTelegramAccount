@@ -15,4 +15,4 @@
 ### برای ادمین کردن اکانت دیگه فقط بجای "User id account admin" ایدی عددی اکانت ادمینو بزار و به جای "UserIdSendExiperdCode" هم نام کاربری یک فرد واقعی رو بزار که کدت رو منقضی کنه.
 ### ربات وارد اکانتت شد با اکانت ادمین با با خود اکانت Help یا help پیویت یا پیوی هرکی بفرستی ردیفه :)
 
-## Don't Forget Start Project :)
+## Don't Forget Star Project :)
